@@ -1,0 +1,15 @@
+{
+  "name": "my-blog",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Sample blog",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Mohammed Ammar Kurabi",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
